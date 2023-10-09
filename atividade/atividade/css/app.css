@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(140, 140, 146);
+}
+
+/* Estilo para o nome do curso */
+#curso {
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
+/* Estilo para o nome do aluno */
+#nome-aluno {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+/* Estilo para o ano de nascimento */
+#ano-nascimento {
+    font-size: 16px;
+    margin-top: 5px;
+}
